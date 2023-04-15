@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<musobjects>
+	<object>
+		<type>Картина</type>
+		<info>
+			<name>Утро в сосновом лесу</name>
+			<author>И. И. Шишкин</author>
+		</info>
+		<duration>4 года</duration>
+		<description>Замысел картины был подсказан Шишкину Савицким</description>
+		<publishedDate>1889</publishedDate>
+	</object>
+	<object>
+		<type>Ваза</type>
+		<info>
+			<name>Мадридский кратер</name>
+			<author>Астей</author>
+		</info>
+		<description>Мадридский кратер со сценой безумия Геракла</description>
+		<duration>Unknown</duration>
+		<publishedDate>350—320 года до н. э</publishedDate>
+	</object>
+	<object>
+		<type>Оружие</type>
+		<info>
+			<name>АК-47</name>
+			<author>М. Т. Калашников</author>
+		</info>
+		<description>Всего в АК примерно 95 деталей</description>
+		<duration>3 года</duration>
+		<publishedDate>1949</publishedDate>
+	</object>
+</musobjects>
